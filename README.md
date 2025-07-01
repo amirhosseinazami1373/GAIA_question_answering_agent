@@ -52,7 +52,66 @@ The minimum requirement is to correctly answer **7 out of 20 Level-1 GAIA questi
 
 ## Installation
 
-1. **Clone the repository:**
+ **1. Clone the repository:**
+
    ```bash
    git clone https://github.com/your-username/gaia-tool-routing-agent.git
    cd gaia-tool-routing-agent
+   ```
+
+**2. Install dependencies:**
+
+```bash
+pip install -r requirements.txt
+```
+
+**3. Add Your API Keys as Environment Variables**
+
+To access **OpenAI**, set your API keys as environment variables. This ensures secure access and prevents hard-coding sensitive information in the code.
+
+  ### For Mac/Linux:
+  Open your terminal and run:
+  ```bash
+  export OPENAI_API_KEY="your-openai-api-key"
+   ```
+  ### For Windows (Command Prompt):
+
+  ```bash
+  set OPENAI_API_KEY="your-openai-api-key"
+  ```
+  ### For Windows (PowerShell):
+
+  ```bash
+  $env:OPENAI_API_KEY="your-openai-api-key"
+  ```
+  ## Usage
+  **1. Run the Gradio interface:**
+  ```bash
+  python app.py
+```
+  **2. Intract with the agent:**
+  
+  Log in via Hugging Face
+
+  Click “Run Evaluation & Submit All Answers”
+
+  Review the table of results and see your GAIA score
+
+  ## Agent workflow:
+
+  🔍 Question Classification: Determines type (e.g., numeric, name, historical)
+
+  📄 Prompt Injection: Constructs a prompt tailored to that question type
+
+  🔧 Tool Execution: LLM (GPT-4) uses external tools via ToolCallingAgent
+
+  🧠 LLM Reasoning: Reasoning chain up to 7 steps
+
+  ✅ Answer Extraction: Regex pattern parses and cleans FINAL ANSWER: ...
+
+  📤 Submission: Posts all answers and code reference to the GAIA server
+
+
+
+
+  
