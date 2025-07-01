@@ -1,0 +1,25 @@
+# Core dependencies
+smolagents
+langchain
+langchain-community
+openai
+google-generativeai
+pandas
+requests
+gradio
+tqdm
+wikipedia
+duckduckgo-search
+smolagents[litellm]
+
+# Optional tools and integrations
+yt-dlp
+pytube
+ffmpeg-python
+
+# Hugging Face OAuth support
+huggingface_hub
+
+# Gemini authentication
+google-api-python-client
+youtube-transcript-api
