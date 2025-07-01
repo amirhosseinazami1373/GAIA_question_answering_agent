@@ -8,7 +8,7 @@ The minimum requirement is to correctly answer **7 out of 20 Level-1 GAIA questi
 
 ## Technologies Used
 
-| ![smolagents](https://path.to/smolagents/logo.png) | ![LangChain](https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg#gh-light-mode-only) | ![Gradio](https://gradio.app/assets/logo-dark.svg) | ![OpenAI GPT-4](https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png) |
+| ![smolagents](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/smolagents/smolagents.png) | ![LangChain](https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg#gh-light-mode-only) | ![Gradio](https://gradio.app/assets/logo-dark.svg) | ![OpenAI GPT-4](https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png) |
 |:--:|:--:|:--:|:--:|
 | [smolagents](https://github.com/smol-ai/smol-agents) | [LangChain](https://www.langchain.com/) | [Gradio](https://gradio.app/) | [GPT-4](https://openai.com/gpt-4) |
 
