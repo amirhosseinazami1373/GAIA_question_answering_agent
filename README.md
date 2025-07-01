@@ -19,7 +19,7 @@ The minimum requirement is to correctly answer **7 out of 20 Level-1 GAIA questi
       <b><a href="https://www.langchain.com/">LangChain</a></b>
     </td>
     <td align="center">
-      <img src="gpt-4.webp" width="80"/><br>
+      <img src="(https://custom.typingmind.com/tools/model-icons/gpt-4)" width="80"/><br>
       <b><a href="https://openai.com/gpt-4">GPT-4</a></b>
     </td>
   </tr>
