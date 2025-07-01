@@ -8,9 +8,26 @@ The minimum requirement is to correctly answer **7 out of 20 Level-1 GAIA questi
 
 ## Technologies Used
 
-| ![smolagents](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/smolagents/smolagents.png) | ![LangChain](https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg#gh-light-mode-only) | ![Gradio](https://gradio.app/assets/logo-dark.svg) | ![OpenAI GPT-4](https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png) |
-|:--:|:--:|:--:|:--:|
-| [smolagents](https://github.com/smol-ai/smol-agents) | [LangChain](https://www.langchain.com/) | [Gradio](https://gradio.app/) | [GPT-4](https://openai.com/gpt-4) |
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/smolagents/smolagents.png" width="90"/><br>
+      <b><a href="https://github.com/huggingface/smolagents">smolagents</a></b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg#gh-light-mode-only" width="100"/><br>
+      <b><a href="https://www.langchain.com/">LangChain</a></b>
+    </td>
+    <td align="center">
+      <img src="https://gradio.app/assets/logo-dark.svg" width="90"/><br>
+      <b><a href="https://gradio.app/">Gradio</a></b>
+    </td>
+    <td align="center">
+      <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" width="80"/><br>
+      <b><a href="https://openai.com/gpt-4">GPT-4</a></b>
+    </td>
+  </tr>
+</table>
 
 ---
 
