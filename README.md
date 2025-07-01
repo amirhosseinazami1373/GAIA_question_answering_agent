@@ -11,19 +11,15 @@ The minimum requirement is to correctly answer **7 out of 20 Level-1 GAIA questi
 <table>
   <tr>
     <td align="center">
-      <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/smolagents/smolagents.png" width="90"/><br>
+      <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/smolagents/smolagents.png" width="200"/><br>
       <b><a href="https://github.com/huggingface/smolagents">smolagents</a></b>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg" width="100"/><br>
+      <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg" width="200"/><br>
       <b><a href="https://www.langchain.com/">LangChain</a></b>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Gradio_logo.png" width="90"/><br>
-      <b><a href="https://gradio.app/">Gradio</a></b>
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" width="80"/><br>
+      <img src="gpt-4.webp" width="80"/><br>
       <b><a href="https://openai.com/gpt-4">GPT-4</a></b>
     </td>
   </tr>
